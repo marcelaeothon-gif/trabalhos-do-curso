@@ -6,6 +6,7 @@ n1 = input(int("digite um numero"))
 
 print(f"o dobro de {n1} e = ", n1 *)
 
+
 #  Exibir o triplo do valor
 
 print (f"o  triplo de {n1} e =" n1 *  3)  
